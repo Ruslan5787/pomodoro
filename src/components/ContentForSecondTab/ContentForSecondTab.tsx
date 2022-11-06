@@ -10,7 +10,6 @@ import {Timer} from "../common/Timer/Timer";
 import {Decor} from "../common/Decor/Decor";
 
 export const ContentForSecondTab: FC = () => {
-  console.log('e')
   return (
     <>
       <div className={styles.timer_wrapper}>
